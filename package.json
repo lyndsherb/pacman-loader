@@ -1,0 +1,21 @@
+{
+  "name": "pacman",
+  "version": "0.0.1",
+  "description": "Basic Pacman loading anim in CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "pacman",
+    "css",
+    "css",
+    "animation"
+  ],
+  "author": "Lyndsey Herbert",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  }
+}
