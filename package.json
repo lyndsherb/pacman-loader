@@ -12,6 +12,9 @@
     "css",
     "animation"
   ],
+  "scripts": {
+      "postversion": "git push && git push --tags"
+  },
   "author": "Lyndsey Herbert",
   "license": "ISC",
   "dependencies": {
